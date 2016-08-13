@@ -2,7 +2,7 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1><%: Title %>.Dorothy</h1>
+        <h1><%: Title %>.</h1>
        
     </hgroup>
 
